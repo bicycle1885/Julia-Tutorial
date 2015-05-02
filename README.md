@@ -6,6 +6,8 @@ IPython Notebookにして試しやすくしています。
 
 今後、HTML化して読みやすくする予定です。
 
+nbviewerで[notebookを見る](http://nbviewer.ipython.org/github/bicycle1885/Julia-Tutorial/blob/master/Julia%E9%AB%98%E9%80%9F%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB.ipynb)
+
 ## 必要なもの
 
 * Julia (> 0.3)
