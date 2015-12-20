@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="500" height="400" viewBox="0, 0, 500, 400">
+  <g id="Layer_1">
+    <text transform="matrix(1, 0, 0, 1, 250, 71.5)">
+      <tspan x="-32.405" y="6" font-family="Monaco" font-size="18" fill="#000000">Number</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 250, 123.5)">
+      <tspan x="-21.604" y="6" font-family="Monaco" font-size="18" fill="#000000">Real</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 374.211, 176.5)">
+      <tspan x="-70.211" y="6" font-family="Monaco" font-size="18" fill="#000000">AbstractFloat</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 159.806, 176.5)">
+      <tspan x="-37.806" y="6" font-family="Monaco" font-size="18" fill="#000000">Integer</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 70.405, 248.5)">
+      <tspan x="-32.405" y="6" font-family="Monaco" font-size="18" fill="#000000">Signed</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 247.207, 248.5)">
+      <tspan x="-43.207" y="6" font-family="Monaco" font-size="18" fill="#000000">Unsigned</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 249.875, 18.5)">
+      <tspan x="-16.203" y="6" font-family="Monaco" font-size="18" fill="#000000">Any</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 30.004, 315.5)">
+      <tspan x="-27.004" y="6" font-family="Monaco" font-size="18" fill="#000000">Int64</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 216.991, 315.5)">
+      <tspan x="-32.405" y="6" font-family="Monaco" font-size="18" fill="#000000">UInt64</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 89.004, 315.5)">
+      <tspan x="-21.604" y="6" font-family="Monaco" font-size="18" fill="#000000">Int8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 284.802, 315.5)">
+      <tspan x="-27.004" y="6" font-family="Monaco" font-size="18" fill="#000000">UInt8</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 358.806, 315.5)">
+      <tspan x="-37.806" y="6" font-family="Monaco" font-size="18" fill="#000000">Float64</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 444.806, 315.5)">
+      <tspan x="-37.806" y="6" font-family="Monaco" font-size="18" fill="#000000">Float32</tspan>
+    </text>
+    <path d="M0.5,280.5 L500.5,280.5" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    <g>
+      <path d="M250.375,61 L250.375,41" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M253.375,41 L250.375,33 L247.375,41 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M250.375,112 L250.375,92" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M253.375,92 L250.375,84 L247.375,92 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M156.086,159.577 L220.334,138.773" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M221.258,141.627 L227.945,136.308 L219.41,135.919 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M373.86,159.577 L280.871,138.032" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M281.548,135.109 L273.078,136.226 L280.194,140.954 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M72.5,237 L140.362,193.831" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M141.972,196.362 L147.112,189.537 L138.751,191.299 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M249.896,237 L180.148,193.743" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M181.73,191.194 L173.35,189.527 L178.567,196.293 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 49.926, 29.5)">
+      <tspan x="-37.125" y="-7" font-family="HiraKakuPro-W3" font-size="18" fill="#000000">abstract</tspan>
+      <tspan x="-24.462" y="20" font-family="HiraKakuPro-W3" font-size="18" fill="#000000">types</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 49.926, 368.5)">
+      <tspan x="-39.573" y="-7" font-family="HiraKakuPro-W3" font-size="18" fill="#000000">concrete</tspan>
+      <tspan x="-24.462" y="20" font-family="HiraKakuPro-W3" font-size="18" fill="#000000">types</tspan>
+    </text>
+    <g>
+      <path d="M34.516,300.495 L57.297,268.344" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M59.745,270.078 L61.922,261.816 L54.849,266.609 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M95.5,300.495 L82.326,269.291" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M85.09,268.124 L79.214,261.921 L79.562,270.458 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M215.453,300.495 L228.058,269.343" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M230.839,270.468 L231.059,261.927 L225.277,268.218 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M279.375,300.495 L262.535,268.94" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M265.181,267.528 L258.768,261.882 L259.888,270.353 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M355.7,300.495 L367.058,197.945" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M370.04,198.276 L367.939,189.994 L364.076,197.615 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M144.722,300.495 L156.08,197.945" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M159.062,198.276 L156.961,189.994 L153.098,197.615 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M438.508,300.495 L400.245,197.437" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M403.057,196.393 L397.46,189.937 L397.432,198.481 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M423.338,80.71 L423.371,47.482" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      <path d="M426.371,47.485 L423.378,39.482 L420.371,47.479 z" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 453.38, 59.096)">
+      <tspan x="-15.372" y="6.5" font-family="HiraKakuPro-W3" font-size="18" fill="#000000">is-a</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 423.203, 25.982)">
+      <tspan x="-59.41" y="6" font-family="Monaco" font-size="18" fill="#000000">&lt;Supertype&gt;</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 422.859, 92.21)">
+      <tspan x="-48.608" y="6" font-family="Monaco" font-size="18" fill="#000000">&lt;Subtype&gt;</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 146.396, 315.5)">
+      <tspan x="-21.604" y="6" font-family="Monaco" font-size="18" fill="#000000">Bool</tspan>
+    </text>
+  </g>
+</svg>
