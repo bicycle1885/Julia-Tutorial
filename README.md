@@ -2,14 +2,12 @@
 
 高速でJuliaを学ぶための日本語チュートリアルです。
 [X分で学ぶJulia](http://bicycle1885.hatenablog.com/entry/2014/12/01/050522)を加筆修正し、
-IPython Notebookにして試しやすくしています。
+Jupyter Notebookにして試しやすくしています。
 
-今後、HTML化して読みやすくする予定です。
+[Julia高速チュートリアル.ipynb](./Julia高速チュートリアル.ipynb)
 
-nbviewerで[notebookを見る](http://nbviewer.ipython.org/github/bicycle1885/Julia-Tutorial/blob/master/Julia%E9%AB%98%E9%80%9F%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB.ipynb)
+## 実行に必要なもの
 
-## 必要なもの
-
-* Julia (> 0.3)
-* IPython (> 3.0)
-* IJulia (> 0.2)
+* [Julia (≥ 0.4)](http://julialang.org/downloads/)
+* [Jupyter](http://jupyter.readthedocs.org/en/latest/install.html)
+* [IJulia](https://github.com/JuliaLang/IJulia.jl)
