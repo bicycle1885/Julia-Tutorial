@@ -8,6 +8,6 @@ Jupyter Notebookにして試しやすくしています。
 
 ## 実行に必要なもの
 
-* [Julia (≥ 0.4)](http://julialang.org/downloads/)
+* [Julia (≥ 0.5)](http://julialang.org/downloads/)
 * [Jupyter](http://jupyter.readthedocs.org/en/latest/install.html)
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
