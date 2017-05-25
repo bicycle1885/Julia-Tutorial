@@ -11,3 +11,7 @@ Jupyter Notebookにして試しやすくしています。
 * [Julia (≥ 0.5)](http://julialang.org/downloads/)
 * [Jupyter](http://jupyter.readthedocs.org/en/latest/install.html)
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
+
+## フィードバック
+
+この辺がわからない・このテーマを扱ってほしいなどのフィードバックは大歓迎です。その際にはGitHubの[issue](https://github.com/bicycle1885/Julia-Tutorial/issues)を使って下さい。
