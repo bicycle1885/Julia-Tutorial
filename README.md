@@ -13,6 +13,13 @@ Jupyter Notebookにして試しやすくしています。
 * [Jupyter](http://jupyter.readthedocs.org/en/latest/install.html)
 * [IJulia](https://github.com/JuliaLang/IJulia.jl)
 
+## インストール
+
+Windows, macOS, Linuxについては，公式サイトのダウンロードページ(https://julialang.org/downloads/)からJuliaのバイナリをインストールしてください。
+Homebrewを使っている場合は，ソースコードからビルドするのでは**なく**，[Homebrew Cask](https://github.com/Homebrew/homebrew-cask)を使ってインストールしてください。
+
+JupyterとIJuliaのインストールについては，それぞれのドキュメントを参照してください。
+
 ## フィードバック
 
 この辺がわからない・このテーマを扱ってほしいなどのフィードバックは大歓迎です。その際にはGitHubの[issue](https://github.com/bicycle1885/Julia-Tutorial/issues)を使って下さい。
