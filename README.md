@@ -15,7 +15,7 @@ Jupyter Notebookにして試しやすくしています。
 
 ## インストール
 
-Windows, macOS, Linuxについては，公式サイトのダウンロードページ(https://julialang.org/downloads/)からJuliaのバイナリをインストールしてください。
+Windows, macOS, Linuxについては，公式サイトのダウンロードページ(<https://julialang.org/downloads/>)からJuliaのバイナリをインストールしてください。
 Homebrewを使っている場合は，ソースコードからビルドするのでは**なく**，[Homebrew Cask](https://github.com/Homebrew/homebrew-cask)を使ってインストールしてください。
 
 JupyterとIJuliaのインストールについては，それぞれのドキュメントを参照してください。
